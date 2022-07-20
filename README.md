@@ -1,3 +1,3 @@
 # ELibReg
 
-This was my second first project
+This was my second  project
